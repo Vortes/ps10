@@ -1,2 +1,2 @@
 # ps10
-school shitt
+school stuff
